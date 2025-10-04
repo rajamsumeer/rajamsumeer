@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="25" alt="raspberry pi logo"/>
 </div>
 
+---------------------------
+
 <a name="top"></a>
 <p align="center">
   <a href="#bottom">:arrow_down: Scroll to Bottom :arrow_down:</a>
@@ -54,6 +56,8 @@
 
 `😅 Though for now the side projects have been abandoned due to time constraints!`
 
+---------------------------
+
 <h2 align="center">Languages</h2>
 
 <div align="center">
@@ -66,6 +70,8 @@
 | <img src="https://img.icons8.com/?size=1200&id=mldPmcCMMrFh&format=png" width="40"/> | Microprocessor Fundamentals |
 
 </div>
+
+---------------------------
 
 <h2 align="center">Software</h2>
 
@@ -84,6 +90,8 @@
 
 </div>
 
+---------------------------
+
 <h2 align="center">Editing Tools</h2>
 
 <p align="center">
@@ -92,6 +100,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
 <img src="https://dl.flathub.org/media/io/github/zyedidia.micro/78d9e73ed7422eb510bb4cdb152bba5e/icons/128x128@2/io.github.zyedidia.micro.png" alt="micro" width="auto" height="40"/>
 </p>
+
+---------------------------
 
 <h2 align="center">University Projects</h2> 
 
@@ -103,6 +113,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamsumeer&repo=Webtech_Databases-2ndYear&theme=tokyonight" />
   </a>
 </p>
+
+---------------------------
 
 <h2 align="center">Github Statistics</h2>
 <p align="center">
