@@ -1,4 +1,5 @@
-<img width="574" height="74" alt="image" src="https://github.com/user-attachments/assets/b79dc904-94e7-4395-a470-42d84795d5ec" /><picture>
+<picture>
+<img width="574" height="74" alt="image" src="https://github.com/user-attachments/assets/b79dc904-94e7-4395-a470-42d84795d5ec"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph.svg">
@@ -18,11 +19,6 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="nodejs logo"/>
-<!-- img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="js logo"/-->
-<!--img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="c++ logo"/-->
-<!--img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="c logo"/-->
-<!--img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo"/-->
-<!--img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"/-->
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="arduino logo"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo"/>
@@ -56,18 +52,6 @@
 
 `😅 Though for now the side projects have been abandoned due to time constraints!`
 
-<h2 align="center">Languages</h2>
-
-<div align="center">
-
-| Language | Used in Module |
-|----------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="40"/> | Programming 1 & 2, Microcontroller Applications |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | Interfacing Electronics, Object Orientated Programming, Project 1 & 2 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> | Webtech & Databases |
-
-</div>
-
 <h2 align="center">Editing Tools</h2>
 
 <p align="center">
@@ -76,23 +60,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
 <img src="https://dl.flathub.org/media/io/github/zyedidia.micro/78d9e73ed7422eb510bb4cdb152bba5e/icons/128x128@2/io.github.zyedidia.micro.png" alt="micro" width="auto" height="40"/>
 </p>
-
-<h2 align="center">Software</h2>
-
-<div align="center">
-
-| Application | Used in Module |
-|----------|----------------|
-| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 |
-| <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" width="40"/> | ECAD, Digital Logic |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkevwW4VzYDg0402ic61rMWaq4whtCeNBJcQ&s" width="40"/> | Software for Real-Time & Embedded Systems |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/> | Project 1-3, Microcontroller Applications, Interfacing Electronics |
-| <img src="https://mqtt-explorer.com/icon.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/> | Project 3 |
-| <img src="https://user-images.githubusercontent.com/61167054/76780241-73d9f380-678b-11ea-8efd-dfa14e7aac1b.png" width="40"/> | Microcontroller Applications |
-| <img src="https://dashboard.snapcraft.io/site_media/appmedia/2023/03/logisim-icon-512.png" width="40"/> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" width="40"/> | Microprocessor Fundamentals |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2 |
-
-</div>
 
 <h2 align="center">University Projects</h2> 
 
