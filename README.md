@@ -77,7 +77,7 @@
 | <img src="https://mqtt-explorer.com/icon.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/> | Project 3 |
 | <img src="https://user-images.githubusercontent.com/61167054/76780241-73d9f380-678b-11ea-8efd-dfa14e7aac1b.png" width="40"/> | Microcontroller Applications |
 | <img src="https://dashboard.snapcraft.io/site_media/appmedia/2023/03/logisim-icon-512.png" width="40"/> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" width="40"/> | Microprocessor Fundamentals |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2, Microcontroller Applications |
 
 </div>
 
