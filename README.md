@@ -1,5 +1,4 @@
 <picture>
-<img width="574" height="74" alt="image" src="https://github.com/user-attachments/assets/b79dc904-94e7-4395-a470-42d84795d5ec"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rajamsumeer/rajamsumeer/output/pacman-contribution-graph.svg">
@@ -51,6 +50,36 @@
 </p>
 
 `😅 Though for now the side projects have been abandoned due to time constraints!`
+
+<h2 align="center">Languages</h2>
+
+<div align="center">
+
+| Language | Used in Module |
+|----------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="40"/> | Programming 1 & 2, Microcontroller Applications |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | Interfacing Electronics, Object Orientated Programming, Project 1 & 2 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> | Webtech & Databases |
+| <img src="https://img.icons8.com/?size=1200&id=mldPmcCMMrFh&format=png" width="40"/> | Microprocessor Fundamentals |
+
+</div>
+
+<h2 align="center">Software</h2>
+
+<div align="center">
+
+| Application | Used in Module |
+|----------|----------------|
+| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 |
+| <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" width="40"/> | ECAD, Digital Logic |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkevwW4VzYDg0402ic61rMWaq4whtCeNBJcQ&s" width="40"/> | Software for Real-Time & Embedded Systems |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/> | Project 1-3, Microcontroller Applications, Interfacing Electronics |
+| <img src="https://mqtt-explorer.com/icon.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/> | Project 3 |
+| <img src="https://user-images.githubusercontent.com/61167054/76780241-73d9f380-678b-11ea-8efd-dfa14e7aac1b.png" width="40"/> | Microcontroller Applications |
+| <img src="https://dashboard.snapcraft.io/site_media/appmedia/2023/03/logisim-icon-512.png" width="40"/> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" width="40"/> | Microprocessor Fundamentals |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2 |
+
+</div>
 
 <h2 align="center">Editing Tools</h2>
 
