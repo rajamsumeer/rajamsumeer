@@ -37,7 +37,7 @@
 - 📽️ Making projects such as the **Greenhouse Environment Controller** and **Smart Building Monitor**!
 - 💭 Thinking of the Third Year project...
 - 🤔 Currently learning: **Cloud IoT** (_Thingsboard_), **Docker**, **RTOS**, **SPI**
-- 💯 I would like to learn/continue learning: **Figma**, **React**, **MediaQuery**, **Processing**, **Blender/C4D**
+- 💯 I would like to learn/continue learning: **Figma**, **React**, **MediaQuery**, **Processing**, **Blender**
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
