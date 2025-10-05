@@ -58,7 +58,7 @@
 
 ---------------------------
 
-<h2 align="center">Languages</h2>
+<h2 align="center">🔤 Languages</h2>
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---------------------------
 
-<h2 align="center">Software</h2>
+<h2 align="center">💻 Software</h2>
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---------------------------
 
-<h2 align="center">Editing Tools</h2>
+<h2 align="center">✍️ Editing Tools</h2>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -103,7 +103,7 @@
 
 ---------------------------
 
-<h2 align="center">University Projects</h2> 
+<h2 align="center">🛠️ University Projects</h2> 
 
 <p align="center">
   <a href="https://github.com/rajamsumeer/Project_2ndYear">
@@ -116,7 +116,7 @@
 
 ---------------------------
 
-<h2 align="center">Github Statistics</h2>
+<h2 align="center">📊 Github Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajamsumeer&show_icons=true&theme=transparent&hide=prs,issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamsumeer&layout=compact&theme=tokyonight" />
