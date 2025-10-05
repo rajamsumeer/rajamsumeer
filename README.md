@@ -46,7 +46,7 @@
 </p>
 
 - 😒 Assembly fried my brain
-- 🦾 Side Projects include: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic Light & Car Park System**
+- 🦾 Personal side Projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic Light & Car Park System**
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="djs" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" alt="dsbot" width="40" height="40"/>
