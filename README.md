@@ -39,19 +39,27 @@
 - 🤔 Currently learning: **Cloud IoT** (_Thingsboard_), **Docker**, **RTOS**, **SPI**, **Vim**
 - 💯 I would like to learn/continue learning: **Figma**, **React**, **MediaQuery**, **Processing**, **Blender**
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg"></code>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> -->
 </p>
 
 - 😒 Assembly fried my brain
 - 🦾 Personal side Projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic Light & Car Park System**
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="djs" width="40" height="40"/>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"></code>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="djs" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" alt="dsbot" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> -->
 </p>
 
 `😅 Though for now the side projects have been abandoned due to time constraints!`
