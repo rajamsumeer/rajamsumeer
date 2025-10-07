@@ -33,7 +33,7 @@
 </p>
 
 - 💻 Aspiring to be a **Software Engineer**!
-- ⚙️ Working with **Embedded Systems** such as (_ATMega328P, ESP32, ESP8266_)
+- ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
 - 📽️ Making projects such as the **Greenhouse Environment Controller** and **Smart Building Monitor**!
 - 💭 Thinking of the Third Year project...
 - 🤔 Currently learning: **Cloud IoT** (_Thingsboard_), **Docker**, **RTOS**, **SPI**, **Vim**
