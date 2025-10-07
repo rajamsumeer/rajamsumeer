@@ -70,11 +70,11 @@
 
 <div align="center">
 
-| Language | Used in Module |
-|----------|---------|
+| Language | Used in Module |  |
+|----------|---------|---------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="40"/> | Programming 1 & 2, Microcontroller Applications |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | Interfacing Electronics, Object Orientated Programming, Project 1 & 2 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> | Webtech & Databases |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> | Webtech & Databases | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp" width="40" height="40"/> <img src="https://miro.medium.com/1*106km8msNjMje898Y6H7ww.png" width="40" height="40"/> |
 | <img src="https://img.icons8.com/?size=1200&id=mldPmcCMMrFh&format=png" width="40"/> | Microprocessor Fundamentals |
 
 </div>
@@ -87,8 +87,8 @@
 
 | Application | Used in Module |
 |----------|----------------|
-| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 & 3 |
-| <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" width="40"/> | ECAD, Digital Logic |
+| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 & 3 (_Schematic / PCB design_) |
+| <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" width="40"/> | ECAD, Digital Logic (_Schematic / PCB design_) |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkevwW4VzYDg0402ic61rMWaq4whtCeNBJcQ&s" width="40"/> | Software for Real-Time & Embedded Systems |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/> | Project 1-3, Microcontroller Applications, Interfacing Electronics |
 | <img src="https://mqtt-explorer.com/icon.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/> | Project 3 |
