@@ -32,25 +32,23 @@
   <a href="#bottom">:arrow_down: Scroll to Bottom :arrow_down:</a>
 </p>
 
-- 💻 Aspiring to be a **Software Engineer**!
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
 - 💭 Thinking of the Third Year project...
-- 🤔 Currently learning: **Cloud IoT** (_Thingsboard_), **Docker**, **RTOS**, **SPI**, **Vim**
-- 💯 I would like to learn/continue learning: **Figma**, **React**, **MediaQuery**, **Processing**, **Blender**
+- 🤔 Currently learning: **Linux Debian**, **IoT** (_Thingsboard_), **Docker**, **SPI**, **Vim**, **RTOS**, **Processing**
+- 💯 May do later: **Figma**, **React**, **Media Queries**
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"></code>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> -->
 </p>
 
 - 😒 Assembly fried my brain
-- 🦾 Personal side Projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic & Car Park System**
+- 🦾 Personal side projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic & Barrier Control System**
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"></code>
