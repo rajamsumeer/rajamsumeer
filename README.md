@@ -49,6 +49,7 @@
 
 - 😒 Assembly fried my brain
 - 🦾 Personal side projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic & Barrier Control System**
+  - `😅 Though for now the side projects have been abandoned due to time constraints!`
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"></code>
@@ -59,8 +60,6 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> -->
 </p>
-
-`😅 Though for now the side projects have been abandoned due to time constraints!`
 
 ---------------------------
 
