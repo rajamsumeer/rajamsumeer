@@ -97,6 +97,7 @@
 | <img src="https://roboticworx.io/cdn/shop/articles/img-1734658564530_67ec017f-f524-4103-804f-bedb7e948573.png?v=1750967403" width="40"/> | Project 3 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png" width="40"/> | Project 3 (_Schematic / PCB design_) |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vajeTmX-i32jZEqJn0QqbX3Hd6GFlTlGCQ&s" width="40"/> | Software Design & Quality |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40"/> | Digital Communications, Digital Signal Processing |
 
 </div>
 
