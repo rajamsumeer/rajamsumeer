@@ -34,8 +34,8 @@
 
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
-- 💭 Thinking of the Third Year project...
-- 🤔 Currently learning: **Linux Debian**, **IoT** (_Thingsboard_), **Docker**, **SPI**, **Vim**, **RTOS**, **Processing**
+- 💭 Making of the Third Year project...
+- 🤔 Currently learning: **Linux Debian**, **freeRTOS**, **Processing**
 - 💯 May do later: **Figma**, **React**, **Media Queries**
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
@@ -69,10 +69,11 @@
 
 | Language | Used in Module |  |
 |----------|---------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="40"/> | Programming 1 & 2, Microcontroller Applications |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="40"/> | Programming 1 & 2, Microcontroller Applications, Software for Real Time & Embedded Systems, Computer Architecture & Operating Systems |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | Interfacing Electronics, Object Orientated Programming, Project 1-3 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> | Webtech & Databases | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp" width="40" height="40"/> <img src="https://miro.medium.com/1*106km8msNjMje898Y6H7ww.png" width="40" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>| Webtech & Databases | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp" width="40" height="40"/> <img src="https://miro.medium.com/1*106km8msNjMje898Y6H7ww.png" width="40" height="40"/> |
 | <img src="https://img.icons8.com/?size=1200&id=mldPmcCMMrFh&format=png" width="40"/> | Microprocessor Fundamentals |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> | Java & Algorithms |
 
 </div>
 
@@ -91,8 +92,11 @@
 | <img src="https://mqtt-explorer.com/icon.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/> | Project 3 |
 | <img src="https://user-images.githubusercontent.com/61167054/76780241-73d9f380-678b-11ea-8efd-dfa14e7aac1b.png" width="40"/> | Microcontroller Applications |
 | <img src="https://dashboard.snapcraft.io/site_media/appmedia/2023/03/logisim-icon-512.png" width="40"/> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" width="40"/> | Microprocessor Fundamentals |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2, Microcontroller Applications |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/> | Programming 2, Microcontroller Applications, Digital Communications |
 | <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="40"/> | Computer Networks |
+| <img src="https://roboticworx.io/cdn/shop/articles/img-1734658564530_67ec017f-f524-4103-804f-bedb7e948573.png?v=1750967403" width="40"/> | Project 3 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png" width="40"/> | Project 3 (_Schematic / PCB design_) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vajeTmX-i32jZEqJn0QqbX3Hd6GFlTlGCQ&s" width="40"/> | Software Design & Quality |
 
 </div>
 
@@ -103,7 +107,6 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
 <img src="https://dl.flathub.org/media/io/github/zyedidia.micro/78d9e73ed7422eb510bb4cdb152bba5e/icons/128x128@2/io.github.zyedidia.micro.png" alt="micro" width="auto" height="40"/>
 </p>
 
