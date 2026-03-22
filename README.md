@@ -85,7 +85,7 @@
 
 | Application | Used in Module |
 |----------|----------------|
-| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 & 3 (_Schematic / PCB design_) |
+| <img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/> | Project 2 (_Schematic / PCB design_) |
 | <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" width="40"/> | ECAD, Digital Logic (_Schematic / PCB design_) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" width="40"/> | Software for Real-Time & Embedded Systems |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/> | Project 1-3, Microcontroller Applications, Interfacing Electronics |
