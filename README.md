@@ -35,7 +35,7 @@
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
 - 💭 Making of the Third Year project...
-- 🤔 Currently learning: **Linux Debian**, **freeRTOS**, **Processing**
+- 🤔 Currently learning: **Linux Debian**, **freeRTOS**, **Processing**, **STM32**
 - 💯 May do later: **Figma**, **React**, **Media Queries**
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
