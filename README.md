@@ -47,8 +47,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> -->
 </p>
 
-- 😒 Assembly fried my brain
-- 🦾 Personal side projects: **Discord API Bot** (_JS_), **Raspberry PI**, **Road Traffic & Barrier Control System**
+- Sockets are interesting!
+- 🦾 Personal side projects: **Discord API Bot** (_JS_)
   - `😅 Though for now the side projects have been abandoned due to time constraints!`
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
