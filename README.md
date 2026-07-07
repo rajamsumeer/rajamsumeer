@@ -35,7 +35,7 @@
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
 - 💭 Thinkering around with components..
-- 🤔 Currently learning: Processing
+- 🤔 Currently learning: **Processing**
 - 💯 May do later: **Figma**, **React**, **Media Queries**
 - 📸 Past hobbies: Cinema 4D, Blender, Photoshop & AfterEffects
 <p align="center">
