@@ -35,8 +35,9 @@
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
 - 💭 Thinkering around with components..
-- 🤔 Currently learning:
+- 🤔 Currently learning: Processing
 - 💯 May do later: **Figma**, **React**, **Media Queries**
+- 📸 Past hobbies: Cinema 4D, Blender, Photoshop & AfterEffects
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
@@ -48,7 +49,7 @@
 </p>
 
 - Sockets are interesting!
-- 🦾 Personal side projects: **Discord API Bot** (_JS_)
+- 🦾 Personal side projects: **Discord API Bot** (_Javascript_)
   - `😅 Though for now the side projects have been abandoned due to time constraints!`
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
