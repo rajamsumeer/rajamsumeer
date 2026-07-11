@@ -67,7 +67,7 @@
 
 <h2 align="center">🔤💻 University Coursework Related</h2>
 
-[Moved here! Click me!](https://github.com/rajamsumeer/rajamsumeer/blob/main/languages.md)
+[Moved here! Click me!](https://github.com/rajamsumeer/Computer_Engineering-Coursework)
 
 ---------------------------
 
