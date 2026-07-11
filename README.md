@@ -33,7 +33,7 @@
 </p>
 
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
-- 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear) and [**Smart Building Monitor**](https://github.com/rajamsumeer/Webtech_Databases-2ndYear)
+- 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear)
 - 💭 Thinkering around with components..
 - 🤔✍️ Currently learning: **Processing**
 - 💯 May do later: **Figma**, **React**, **Media Queries**
@@ -65,25 +65,9 @@
 
 ---------------------------
 
-<h2 align="center">🔤 Languages</h2>
+<h2 align="center">🔤💻 University Coursework Related</h2>
 
 [Moved here! Click me!](https://github.com/rajamsumeer/rajamsumeer/blob/main/languages.md)
-
----------------------------
-
-<h2 align="center">💻 Software</h2>
-
-[Moved here! Click me!](https://github.com/rajamsumeer/rajamsumeer/blob/main/software.md)
-
----------------------------
-
-<h2 align="center">✍️ Editing Tools</h2>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/>
-<img src="https://dl.flathub.org/media/io/github/zyedidia.micro/78d9e73ed7422eb510bb4cdb152bba5e/icons/128x128@2/io.github.zyedidia.micro.png" alt="micro" width="auto" height="40"/>
-</p>
 
 ---------------------------
 
@@ -96,6 +80,16 @@
   <a href="https://github.com/rajamsumeer/Webtech_Databases-2ndYear">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamsumeer&repo=Webtech_Databases-2ndYear&theme=tokyonight" />
   </a>
+</p>
+
+---------------------------
+
+<h2 align="center">✍️ Editing Tools I Use</h2>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/>
+<img src="https://dl.flathub.org/media/io/github/zyedidia.micro/78d9e73ed7422eb510bb4cdb152bba5e/icons/128x128@2/io.github.zyedidia.micro.png" alt="micro" width="auto" height="40"/>
 </p>
 
 ---------------------------
