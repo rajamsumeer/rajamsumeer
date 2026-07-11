@@ -67,6 +67,42 @@
 
 ---------------------------
 
+<h2 align="center">💻 Technical Overview</h2>
+
+### Operating Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25" alt="windows logo"/><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" height="25" alt="linux logo"/>
+
+### Languages
+
+[![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")[![Java]](https://www.java.com/en "Java")[![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")
+
+### IDE
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="arduino logo"/>
+
+### Containers
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo"/><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D6.svg?style=for-the-badge&logo=microsoft&logoColor=white" height="25" alt="azure logo"/>  
+
+### IoT Dashboards
+[![Grafana]](https://grafana.com "Grafana")  
+- Thingsboard
+
+### Web Development
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="nodejs logo"/>[![npm]](https://www.npmjs.com "npm")    
+
+[C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
+[GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=github
+[Grafana]: https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&labelColor=464646&logoColor=F46800&logo=grafana
+[Java]: https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=javascript
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=node-dot-js
+[npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=CB3837&logoColor=CB3837&logo=npm
+
+---------------------------
+
 <h2 align="center">🔤💻 University Coursework Related</h2>
 
 [Moved here! Click me!](https://github.com/rajamsumeer/Computer_Engineering-Coursework)
