@@ -32,7 +32,8 @@
   <a href="#bottom">:arrow_down: Scroll to Bottom :arrow_down:</a>
 </p>
 
-## Overview
+<h2 align="center">Overview</h2>
+
 - ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear)
 - 💭 Thinkering around with components..
