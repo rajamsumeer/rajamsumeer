@@ -24,7 +24,7 @@
 
 <h2 align="center">Personal Overview</h2>
 
-- ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, STM32, Arduino_)
+- ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
 - 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear)
 - 💭 Thinkering around with components..
 - 🤔✍️ Currently learning: **Processing**
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="C"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="Java"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="C++"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="JavaScript"/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5"/><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" height="25" alt="CSS"/>
 
 ### Microcontrollers
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino"/><img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" height="25" alt="Espressif"/><img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="25" alt="STMicroelectronics"/>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino"/><img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" height="25" alt="Espressif"/>
 
 ### Version Control & Containerization
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker"/><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"/>
@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="25" alt="Raspberry Pi"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" height="25" alt="VirtualBox"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="Notion"/><img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" height="25" alt="Miro"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma"/><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="25" alt="draw.io"/><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" height="25" alt="Atom"/><img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino IDE"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="Visual Studio Code"/><img src="https://img.shields.io/badge/MSYS2-1F4E79?style=for-the-badge&labelColor=464646" height="25" alt="MSYS2"/><img src="https://img.shields.io/badge/Micro-2E3192?style=for-the-badge&logo=microeditor&logoColor=white" height="25" alt="Micro"/>
+<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" height="25" alt="VirtualBox"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="Notion"/><img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" height="25" alt="Miro"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma"/><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="25" alt="draw.io"/><img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino IDE"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="Visual Studio Code"/><img src="https://img.shields.io/badge/MSYS2-1F4E79?style=for-the-badge&labelColor=464646" height="25" alt="MSYS2"/><img src="https://img.shields.io/badge/Micro-2E3192?style=for-the-badge&logo=microeditor&logoColor=white" height="25" alt="Micro"/>
 
 ---------------------------
 
