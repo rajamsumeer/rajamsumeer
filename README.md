@@ -8,13 +8,6 @@
 <img src="https://github.com/rajamsumeer/rajamsumeer/blob/main/githubresources/readmeRMS.gif" height="auto" alt="textintro">
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/>
-<a href="https://www.linkedin.com/in/rajamsumeer" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
-</a>
-</div>
-
 ---------------------------
 
 <a name="top"></a>
