@@ -24,12 +24,9 @@
 
 <h2 align="center">Personal Overview</h2>
 
-- ⚙️ Working with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
-- 📽️ Making projects such as the [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear)
-- 💭 Thinkering around with components..
+- ⚙️ Tinkering around with **Microcontrollers & Embedded Systems** such as (_ATMega328P, ESP32, ESP8266, Arduino_)
+- 📽️ Previous university projects: [**Greenhouse Environment Controller**](https://github.com/rajamsumeer/Project_2ndYear)
 - 🤔✍️ Currently learning: **Processing**
-- 💯 May do later: **React**, **Media Queries**
-- 📸 Past hobbies: Cinema 4D, Blender, Photoshop & AfterEffects
 - In the process of cleaning up my Github...
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code>
@@ -41,9 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> -->
 </p>
 
-- Sockets are interesting!
 - 🦾 Personal side projects: **Discord API Bot** (_Javascript_)
-  - `😅 Though for now the side projects have been abandoned due to time constraints!`
+  - `😅 For now the side projects have been abandoned due to time constraints.`
 <p align="center">
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"></code>
@@ -87,26 +83,13 @@
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="25" alt="Raspberry Pi"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" height="25" alt="VirtualBox"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="Notion"/><img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" height="25" alt="Miro"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma"/><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="25" alt="draw.io"/><img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino IDE"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="Visual Studio Code"/><img src="https://img.shields.io/badge/MSYS2-1F4E79?style=for-the-badge&labelColor=464646" height="25" alt="MSYS2"/><img src="https://img.shields.io/badge/Micro-2E3192?style=for-the-badge&logo=microeditor&logoColor=white" height="25" alt="Micro"/>
+<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" height="25" alt="VirtualBox"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25" alt="Notion"/><img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black" height="25" alt="Miro"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="Figma"/><img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="25" alt="draw.io"/><img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino IDE"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="Visual Studio Code"/><img src="https://img.shields.io/badge/MSYS2-1F4E79?style=for-the-badge&labelColor=464646" height="25" alt="MSYS2"/>
 
 ---------------------------
 
 <h2 align="center">🔤💻 University Coursework Related</h2>
 
 [Moved here! Click me!](https://github.com/rajamsumeer/Computer_Engineering-Coursework)
-
----------------------------
-
-<h2 align="center">🛠️ University Projects</h2> 
-
-<p align="center">
-  <a href="https://github.com/rajamsumeer/Project_2ndYear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamsumeer&repo=Project_2ndYear&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/rajamsumeer/Webtech_Databases-2ndYear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamsumeer&repo=Webtech_Databases-2ndYear&theme=tokyonight" />
-  </a>
-</p>
 
 ---------------------------
 
