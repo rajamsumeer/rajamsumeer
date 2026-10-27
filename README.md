@@ -26,9 +26,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"></code>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> -->
 </p>
 
 - 🦾 Personal side projects: **Discord API Bot** (_Javascript_)
@@ -38,10 +35,6 @@
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"></code>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="djs" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" alt="dsbot" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> -->
 </p>
 
 ---------------------------
@@ -52,7 +45,7 @@
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" height="25" alt="Debian"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25" alt="Windows"/>
 
 ### Languages
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="C"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="Java"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="C++"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="JavaScript"/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5"/><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" height="25" alt="CSS"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="C"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="Java"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="C++"/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="HTML5"/><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" height="25" alt="CSS"/>
 
 ### Microcontrollers
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25" alt="Arduino"/><img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" height="25" alt="Espressif"/>
@@ -61,10 +54,10 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker"/><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"/>
 
 ### Internet of Things
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="25" alt="Grafana"/><img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="25" alt="Mosquitto"/><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="25" alt="MQTT"/><img src="https://img.shields.io/badge/ThingsBoard-0054A6?style=for-the-badge&labelColor=464646" height="25" alt="ThingsBoard"/><img src="https://img.shields.io/badge/ThingSpeak-0054A6?style=for-the-badge&labelColor=464646" height="25" alt="ThingSpeak"/>
+<img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="25" alt="Mosquitto"/><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="25" alt="MQTT"/><img src="https://img.shields.io/badge/ThingsBoard-0054A6?style=for-the-badge&labelColor=464646" height="25" alt="ThingsBoard"/><img src="https://img.shields.io/badge/ThingSpeak-0054A6?style=for-the-badge&labelColor=464646" height="25" alt="ThingSpeak"/>
 
 ### Web Development
-<img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node.js"/><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="25" alt="NPM"/><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25" alt="Express.js"/><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25" alt="jQuery"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node.js"/><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="25" alt="NPM"/><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25" alt="Express.js"/>
 
 ### Electronic Design Automation
 <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&labelColor=464646" height="25" alt="EasyEDA"/><img src="https://img.shields.io/badge/EAGLE-FF9E0F?style=for-the-badge&labelColor=464646" height="25" alt="EAGLE"/>
